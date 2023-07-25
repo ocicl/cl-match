@@ -1,0 +1,10 @@
+* cl-match
+
+NOTE: SUPERSEDED BY OPTIMA, https://github.com/m2ym/optima. Bug fixes for Daniel S. Bensen's CL-MATCH common-lisp pattern matching library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tonyg/cl-match.git   |
+| commit  | 6c19812  |
+| systems | cl-match |
+|---------+-------------------------------------------|
+
